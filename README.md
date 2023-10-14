@@ -1,3 +1,6 @@
+# ⚠️⚠️⚠️ MAINTENANCE ⚠️⚠️⚠️
+> ## This project is currently under maintenance work for the v4.0.0
+----
 # Janjyfy - Bot v3.1.0<br/>
 
 <br><br>
